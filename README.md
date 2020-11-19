@@ -2,7 +2,7 @@
 A project management system made with laravel and blade templating.
 
 #Features:
-#Project Manager, employee and admin based roles
+#Project Manager, employee and admin based roles /n
 #Task, Project, and Issues Tracking System
 #Email Notification System
 #Blade Templating
