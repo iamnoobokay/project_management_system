@@ -1,11 +1,11 @@
 # project_management_system
 A project management system made with laravel and blade templating.
 
-#Features:
-#Project Manager, employee and admin based roles /n
-#Task, Project, and Issues Tracking System
-#Email Notification System
-#Blade Templating
-#Attendance and Daily Work Report
-#Checkin/Checkout Feature
-#Birthday Notifications
+Features:
+Project Manager, employee and admin based roles <br />
+Task, Project, and Issues Tracking System <br />
+Email Notification System <br />
+Blade Templating <br />
+Attendance and Daily Work Report <br />
+Checkin/Checkout Feature <br />
+Birthday Notifications <br />
