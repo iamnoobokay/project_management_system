@@ -56,8 +56,8 @@ return [
     */
 
     'from' => [
-        'address' => env('address', 'pranavpoudyal101@gmail.com'),
-        'name' => env('name', '4 Tuples'),
+        'address' => env('address', 'pranav.poudyal@apexcollege.edu.np'),
+        'name' => env('name', 'Pranav Poudyal'),
     ],
 
     /*
