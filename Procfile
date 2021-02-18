@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 PROJECT_MANAGEMENT_SYSTEM/
+web: vendor/bin/heroku-php-apache2 public/
